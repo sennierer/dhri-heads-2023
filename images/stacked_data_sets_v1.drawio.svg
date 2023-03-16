@@ -1,0 +1,130 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1063px" height="704px" viewBox="-0.5 -0.5 1063 704" content="&lt;mxfile&gt;&lt;diagram id=&quot;_PQxqJkCdn6E26lM6ItV&quot; name=&quot;Page-1&quot;&gt;5ZpNl5owFIZ/Dcuekw8SYFl1bBftahZdpxCFUyQWY3X66xshICDOhGkYHYaFwpvw9eT15l7EwfPN8UvOtvF3EfHUQSA6OnjhIIQJUZ8n4akUfN8vhXWeRKUEz8Jj8pdrEWh1n0R81+oohUhlsm2LocgyHsqWxvJcHNrdViJtn3XL1vxCeAxZeqn+SCIZaxXS4NzwlSfrWJ/aR17ZsGFVZ30nu5hF4tCQ8IOD57kQslzbHOc8PbGruJT7La+01heW80ya7FBd2B+W7vXN6QuTT9Xd5mKfRfy0A3Tw7BAnkj9uWXhqPajhVVosN6lujtgurvvuZC5+1YhcpaySNJ2LVORqOxMZrztVooPwconVolr0pfFc8uPV+4M1NeU2LjZc5k+qi96Behq0dhoM9PahOW5aixtDRrAWmfbKuj72Gada0USv0KXTpktImy4CpnSRDbpk2nRrr1Z0oSldaIOuO226Nw0MeAhb8DLbJjzFiQGCUHTSRSYb+qpY+sjSBVwCYIes3yZLvEuyQQ9Y6FoAO8i0w8ECQABfDQELAFzM5nbA1uG1ItsTbvvIIhvxYFCwfW+WxahDFpmRDSyAHZQjDAfrUQp81gfQxWhBvGeQWwDrum2wlJiBpRbADkpt35tjCX2dY6ENy/pTtqz/ck7bG2RtWDaYMtju9IVMLWsjMaimwGlmBt0w6/qGaIENtHDKaLuBtq8KG8+1aGy0PitmpAFoVT5vaQ6jt6wU4Mg12H2hdQ1nMTtoJ12FdWsF3PPkoA+tb4PsyFXYrTOvTqh1zci6ng20I9dhtzVt8ErTWikX4MiV2AowDNglWlAsfWhnCw/YCrUQdGvcN3x4AEcuxW7r2gu0psWYFbQjF2Mch35fgvCMa0FAipYXHqVbCcXt9MEwM7PBvfr1fEju3RoZm6bEVv5QG7mQu2vy3RKaGM6QxAb4kcu8uwbfLbAxNbS8FfIjV4F3Tb5bJJrOrlaSwt6HyDSVmlVrCOjvvagaPu2K14E+qw6QbI8Fiapdra2L7zl2Ajr75hSvAMk8+bmXiciq46tLK0+he3+YAYcAdUf87WJcXzrVGu+wZnIez4pbQ/ofX9RKKDbblEveOnDEJNtxOdwm7+/thwsnGD4wfsWfHGrz/D5b0dZ4KRA//AM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g id="cell-27">
+            <rect x="602" y="172" width="110" height="530" rx="16.5" ry="16.5" fill="none" stroke="#ff3333" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-26">
+            <rect x="482" y="182" width="110" height="520" rx="16.5" ry="16.5" fill="none" stroke="#ff3333" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-25">
+            <rect x="122" y="192" width="110" height="510" rx="16.5" ry="16.5" fill="none" stroke="#ff3333" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-24">
+            <rect x="2" y="172" width="110" height="530" rx="16.5" ry="16.5" fill="none" stroke="#ff3333" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-3">
+            <rect x="12" y="552" width="90" height="140" fill="#a0522d" stroke="#6d1f00" pointer-events="all"/>
+        </g>
+        <g id="cell-4">
+            <rect x="132" y="482" width="90" height="210" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-5">
+            <rect x="252" y="502" width="90" height="90" fill="#a0522d" stroke="#6d1f00" pointer-events="all"/>
+        </g>
+        <g id="cell-6">
+            <rect x="372" y="632" width="90" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        </g>
+        <g id="cell-7">
+            <rect x="492" y="502" width="90" height="190" fill="#a0522d" stroke="#6d1f00" pointer-events="all"/>
+        </g>
+        <g id="cell-8">
+            <rect x="12" y="182" width="90" height="260" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        </g>
+        <g id="cell-9">
+            <rect x="132" y="202" width="90" height="140" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        </g>
+        <g id="cell-10">
+            <rect x="372" y="462" width="90" height="100" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-11">
+            <rect x="492" y="192" width="90" height="140" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-12">
+            <rect x="612" y="552" width="90" height="140" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        </g>
+        <g id="cell-13">
+            <rect x="612" y="382" width="90" height="140" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        </g>
+        <g id="cell-14">
+            <rect x="252" y="372" width="90" height="80" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-15">
+            <rect x="732" y="222" width="90" height="470" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        </g>
+        <g id="cell-16">
+            <rect x="852" y="372" width="90" height="190" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-17">
+            <rect x="972" y="602" width="90" height="90" fill="#f0a30a" stroke="#bd7000" pointer-events="all"/>
+        </g>
+        <g id="cell-18">
+            <rect x="972" y="182" width="90" height="90" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        </g>
+        <g id="cell-19">
+            <rect x="12" y="452" width="90" height="90" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-20">
+            <rect x="132" y="352" width="90" height="120" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-21">
+            <rect x="372" y="572" width="90" height="50" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-22">
+            <rect x="492" y="342" width="90" height="150" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-23">
+            <rect x="612" y="182" width="90" height="190" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+        </g>
+        <g id="cell-28">
+            <rect x="952" y="2" width="90" height="50" fill="#e3c800" stroke="#b09500" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 27px; margin-left: 953px;">
+                            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 15px;">
+                                        ÖBL contribution
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="997" y="31" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                        ÖBL contribution
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g id="cell-29">
+            <rect x="952" y="62" width="90" height="60" rx="9" ry="9" fill="none" stroke="#ff3333" stroke-width="4" stroke-dasharray="12 12" pointer-events="all"/>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 92px; margin-left: 953px;">
+                            <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 15px;" color="#000000">
+                                        "complete" dataset
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="997" y="96" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                        "complete" data...
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

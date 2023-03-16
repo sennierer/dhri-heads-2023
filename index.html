@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>ÖBL Evaluierung 2023</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/acdh-ch-oeaw.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div id="header">Das ÖBL aus einer digitalen Perspektive, 2023-03-20
+			<br/>Matthias Schlögl, ACDH-CH (Austrian Academy of Sciences)
+		</div>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown>
+					<textarea data-template>
+					## Das ÖBL aus einer digitalen Perspektive
+					#### ÖBL Evaluierung 2023
+					<br/>
+					<br/>
+					<p>
+						<small style="font-style: italic;">Leerzeichen um durch die Folien zu clicken, ESC für eine Übersicht</small>
+					</p>
+					</textarea>
+				</section>
+				<section data-markdown="sections/intro_de.md"
+					data-separator="^\r?\n---\r?\n$"
+					data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+					data-separator-notes="^Note:">
+				</section>
+				<section data-markdown="sections/irs_de.md"
+					data-separator="^\r?\n---\r?\n$"
+					data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+					data-separator-notes="^Note:">
+				</section>
+				<section data-markdown="sections/advantages_de.md"
+					data-separator="^\r?\n---\r?\n$"
+					data-separator-vertical="^\r?\n\+\+\+\r?\n$"
+					data-separator-notes="^Note:">
+				</section>
+				<section data-markdown>
+					<textarea data-template>
+					# Danke
+					</textarea>
+				</section>
+				<section data-background-iframe="http://127.0.0.1:8081/lemmas"
+          data-background-interactive></section>
+				<section data-background-iframe="http://127.0.0.1:8081/article/4"
+          data-background-interactive></section>
+				<section data-background-iframe="http://localhost:33813/person/164563"
+          data-background-interactive></section>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/animate/plugin.js"></script>
+		<script src="plugin/animate/svg.min.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				width: 1400,
+				height: 900,
+				controls: false,
+				//showNotes: 'separate-page',
+				//pdfSeparateFragments: false,
+				margin: 0.04,
+
+				minScale: 0.2,
+				maxScale: 2.0,
+
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealAnimate ],
+				animate: {
+				    autoplay: true
+	 		   }
+
+			});
+		</script>
+	</body>
+</html>
