@@ -7,6 +7,7 @@
 - Nomansland -> similar but different area ;)<!-- .element: class="fragment" -->
 - InTaVia -> not APIS, but uses API to retrieve/convert data<!-- .element: class="fragment" -->
 - MINE/PAAS -> Prosopographie der Geschichte der Akademie<!-- .element: class="fragment" -->
+- IRS & new ÖBL webpage -> Integriertes Redaktionssystem<!-- .element: class="fragment" -->
 
 +++
 
