@@ -28,7 +28,6 @@
 - missing tests<!-- .element: class="fragment" -->
 - hard to keep an overview<!-- .element: class="fragment" -->
 - long discussions in the jfx<!-- .element: class="fragment" -->
-- quarrels between staff members<!-- .element: class="fragment" -->
 
 +++
 
