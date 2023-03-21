@@ -23,13 +23,6 @@
 -->
 </div>
 
-+++
-
-### Time frame
-- first alpha containing all components end Q2<!-- .element: class="fragment" -->
-- beta end Q3<!-- .element: class="fragment" -->
-- productive end 2023<!-- .element: class="fragment" -->
-
 ---
 
 # Current state
@@ -63,3 +56,21 @@
 <img class="r-stretch" style="margin-bottom:60px;flex: 1;margin-right: 5px;" src="images/screenshot_oebl_aigner_page.png">
 <img class="r-stretch" style="margin-bottom:60px;flex: 1;margin-left: 5px;" src="images/screenshot-oebl-apis-search.png">
 </div>
+
++++
+
+#### IRS Researchtool live
+
+<iframe data-src="http://127.0.0.1:8081/lemmas" width="1400px" height="900px"></iframe>
+
++++
+
+#### IRS Editor live
+
+<iframe data-src="http://127.0.0.1:8081/article/4" width="1400px" height="900px"></iframe>
+
++++
+
+#### ÖBL webpage new
+
+<iframe data-src="https://apis.acdh.oeaw.ac.at" width="1400px" height="900px"></iframe>
